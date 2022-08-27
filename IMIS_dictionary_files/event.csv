@@ -1,0 +1,15 @@
+code,Event
+01,Struck By
+02,Caught in or Between
+03,Bite/Sting/Scratch
+04,Fall (Same Level)
+05,Fall (From Elevation)
+06,Struck Against
+07,Rubbed/Abraded
+08,Inhalation
+09,Ingestion
+10,Absorption
+11,Repeated Motion/Pressure
+12,Cardio-Vascular/Respiratory System Failure
+13,Shock
+14,Other
